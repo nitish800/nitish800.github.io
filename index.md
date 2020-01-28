@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/nitish800/nitish800.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You already know my name, I completed my formal education in 2017 with my degree in Bachelor Of Computer Application, I own a retail store in a small town in  India. During day time i manage my store and at night i make the internet safe, through bug bounty and scanning the internet for interesting stuff and data leaks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Although most of my accomplishment is masked by NDA, I will try to keep this page updated with info I am allowed to make public.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mentions In HALL OF FAME
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Certificate
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Cash Rewarded 
+# Don't test the site listed below without permission, not all of them have a bug bounty program and were rewarded because of the severity of the bug/leak
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nitish800/nitish800.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Mention In News
